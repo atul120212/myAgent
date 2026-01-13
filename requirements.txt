@@ -1,0 +1,20 @@
+# Core UI
+streamlit>=1.30.0
+
+# Agent framework
+agno>=0.1.0
+
+# Google Gemini model support
+google-generativeai>=0.8.0
+
+# Environment variable management
+python-dotenv>=1.0.0
+
+# Data handling
+pandas>=2.0.0
+
+# PDF text extraction
+pypdf>=3.17.0
+
+# Visualization (used by Streamlit internally, safe to include)
+matplotlib>=3.8.0
